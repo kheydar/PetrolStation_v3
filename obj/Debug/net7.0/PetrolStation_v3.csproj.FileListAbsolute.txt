@@ -1,0 +1,15 @@
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/bin/Debug/net7.0/PetrolStation_v3
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/bin/Debug/net7.0/PetrolStation_v3.deps.json
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/bin/Debug/net7.0/PetrolStation_v3.runtimeconfig.json
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/bin/Debug/net7.0/PetrolStation_v3.dll
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/bin/Debug/net7.0/PetrolStation_v3.pdb
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.csproj.AssemblyReference.cache
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.AssemblyInfoInputs.cache
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.AssemblyInfo.cs
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.csproj.CoreCompileInputs.cache
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.dll
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/refint/PetrolStation_v3.dll
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.pdb
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/PetrolStation_v3.genruntimeconfig.cache
+/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/C#/PetrolStation_v3/obj/Debug/net7.0/ref/PetrolStation_v3.dll

@@ -4,11 +4,10 @@ namespace PetrolStation_v3
     public class Login
     {
         private static bool correctPin;
-        string password = System.IO.File.ReadAllText(@"../../../login.txt");
+        readonly string password = System.IO.File.ReadAllText(@"../../../login.txt");
 
         public Login()
         {
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("Please login to continue or type 'quit' to close the program");
             string login = Console.ReadLine();
 
@@ -42,8 +41,13 @@ namespace PetrolStation_v3
                         Console.WriteLine("Closing application...");
                         System.Environment.Exit(1);
                     }
+
                     else if (input == password)
                     {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("\n");
+                        Console.WriteLine("Log in successful");
+                        Console.ResetColor();
                         correctPin = true;
                     }
 
