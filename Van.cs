@@ -5,7 +5,7 @@ namespace PetrolStation_v3
 	{
         private readonly Random random = new Random();
         private int startingFuel;
-        private string[]? FuelType { get; set; }
+        string[]? FuelType { get; set; }
         private string? VehicleFuelType { get; set; }
 
         public Van(string vehicleFuelType, int startingFuel, int vehicleTankSize = 80, string typeofVehicle = "Van")
@@ -24,10 +24,10 @@ namespace PetrolStation_v3
             VehicleFuelType = FuelType[random.Next(0, 2)];
         }
 
-        public override string VehicleInfo
-        {
-            get => $"Vehicle is a Van running on {VehicleFuelType} with a tank size of 80 and with a starting fuel of {startingFuel}";
-        }
+        //public override string VehicleInfo
+        //{
+        //    get => $"Vehicle is a Van running on {VehicleFuelType} with a tank size of 80 and with a starting fuel of {startingFuel}";
+        //}
     }
 }
 

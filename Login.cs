@@ -3,7 +3,7 @@ namespace PetrolStation_v3
 {
     public class Login
     {
-        private static bool correctPin;
+        public static bool correctPin;
         readonly string password = System.IO.File.ReadAllText(@"../../../login.txt");
 
         public Login()
@@ -18,6 +18,8 @@ namespace PetrolStation_v3
 
             else if (login.ToLower() == "quit")
             {
+                Console.ResetColor();
+                Console.WriteLine("\n");
                 Console.WriteLine("Closing application...");
                 System.Environment.Exit(1);
             }

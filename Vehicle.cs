@@ -6,12 +6,12 @@ namespace PetrolStation_v3
     public class Vehicle
     {
 
-        string VehicleFuelType { get; set; }
-        string TypeofVehicle { get; set; }
-        int VehicleTankSize { get; set; }
-        int StartingFuel { get; set; }
-        string[]? randFuelType { get; set; }
-        string[]? randVehicle { get; set; }
+        private string VehicleFuelType { get; set; }
+        private string TypeofVehicle { get; set; }
+        private int VehicleTankSize { get; set; }
+        private int StartingFuel { get; set; }
+        private string[]? randFuelType { get; set; }
+        private string[]? randVehicle { get; set; }
         private static System.Timers.Timer? createVechile;
 
         Random random = new Random();
@@ -38,7 +38,7 @@ namespace PetrolStation_v3
             randFuelType = new string[] { "Diesel", "Petrol", "LPG" };
             VehicleFuelType = randFuelType[random.Next(0, 2)];
             randVehicle = new string[] { "Car", "Van", "HVG" };
-            TypeofVehicle = randVehicle[random.Next(0, 2)];
+            TypeofVehicle = randVehicle[random.Next(0, 3)];
             VehicleTankSize = random.Next(50, 150);
             StartingFuel = random.Next(0, 150);
 
@@ -80,8 +80,17 @@ namespace PetrolStation_v3
         public virtual string VehicleInfo
         {
             get => $"Vehicle is a {TypeofVehicle} that uses {VehicleFuelType} " +
-                $"with a tank size of {VehicleTankSize} and with a starting fuel of {StartingFuel} " +
-                $"Vechile was created after {createVechile.Interval}";
+                $"with a tank size of {VehicleTankSize} and with a starting fuel of {StartingFuel}";
+        }
+
+        public string FuelType
+        {
+            get => VehicleFuelType;
+        }
+
+        public string VehicleType
+        {
+            get => TypeofVehicle;
         }
 
     }

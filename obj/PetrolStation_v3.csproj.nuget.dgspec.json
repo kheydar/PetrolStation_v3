@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/PetrolStation_v3/PetrolStation_v3.csproj": {}
+    "/Users/nelsonrodrigues/Library/CloudStorage/OneDrive-ABAgri/C#/PetrolStation_v3/PetrolStation_v3.csproj": {}
   },
   "projects": {
-    "/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/PetrolStation_v3/PetrolStation_v3.csproj": {
+    "/Users/nelsonrodrigues/Library/CloudStorage/OneDrive-ABAgri/C#/PetrolStation_v3/PetrolStation_v3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/PetrolStation_v3/PetrolStation_v3.csproj",
+        "projectUniqueName": "/Users/nelsonrodrigues/Library/CloudStorage/OneDrive-ABAgri/C#/PetrolStation_v3/PetrolStation_v3.csproj",
         "projectName": "PetrolStation_v3",
-        "projectPath": "/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/PetrolStation_v3/PetrolStation_v3.csproj",
+        "projectPath": "/Users/nelsonrodrigues/Library/CloudStorage/OneDrive-ABAgri/C#/PetrolStation_v3/PetrolStation_v3.csproj",
         "packagesPath": "/Users/nelsonrodrigues/.nuget/packages/",
-        "outputPath": "/Users/nelsonrodrigues/OneDrive - Agri.org/OneDrive - AB Agri/PetrolStation_v3/obj/",
+        "outputPath": "/Users/nelsonrodrigues/Library/CloudStorage/OneDrive-ABAgri/C#/PetrolStation_v3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nelsonrodrigues/.nuget/NuGet/NuGet.Config"

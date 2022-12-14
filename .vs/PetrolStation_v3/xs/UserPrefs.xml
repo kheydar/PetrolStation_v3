@@ -1,4 +1,29 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{797280CF-51B5-4971-8E2A-0CFB5CC15D2F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.PetrolStation__v3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vehicle.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="54" />
+      <File FileName="Vehicle.cs" Line="80" Column="9" />
+      <File FileName="Car.cs" Line="36" Column="1" />
+      <File FileName="Van.cs" Line="34" Column="1" />
+      <File FileName="HVG.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PetrolStation_v3" expanded="True">
+            <Node name="PetrolStation_v3" expanded="True">
+              <Node name="Login.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
